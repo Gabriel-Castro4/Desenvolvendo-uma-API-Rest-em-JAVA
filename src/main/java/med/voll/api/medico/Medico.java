@@ -8,8 +8,8 @@ import lombok.NoArgsConstructor;
 import med.voll.api.endereco.Endereco;
 
 //Utilizando o JPA
-@Entity(name = "medicos")
-@Table(name="medico")
+@Entity(name = "medico")
+@Table(name="medicos")
 //Utilizando o lombok
 @Getter
 @NoArgsConstructor
