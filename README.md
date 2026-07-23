@@ -1,5 +1,3 @@
----
-
 # API Rest em Java com Spring Boot
 
 [![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://adoptium.net/)
@@ -121,5 +119,3 @@ Durante o desenvolvimento deste projeto, foram aplicados e consolidados diversos
 
 **Gabriel Castro**
 - GitHub: Gabriel-Castro4
-
----
